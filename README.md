@@ -53,3 +53,4 @@
 pod 'MUCycleScrollView', :git => 'https://github.com/muchangqing/MUCycleScrollView.git'
 
 ```
+也可以把项目download下来，然后把项目中的CycleScrollView文件及其内容拖拽到项目中即可
