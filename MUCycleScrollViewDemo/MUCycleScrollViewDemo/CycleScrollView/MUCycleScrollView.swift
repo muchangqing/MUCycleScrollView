@@ -71,7 +71,7 @@ class MUCycleScrollView: UIView, UICollectionViewDelegate, UICollectionViewDataS
         //////////////////////  自定义样式接口  //////////////////////
         
         /// 占位图片
-        var placeHolderImage: UIImage = UIImage(named: "placeholderImg")! {
+        var placeHolderImage: UIImage? {
                 didSet {
                         self.collectionView.reloadData()
                 }
