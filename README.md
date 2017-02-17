@@ -51,3 +51,5 @@
 在Podfile文件中加入下面代码即可
 ```
 pod 'MUCycleScrollView', :git => 'https://github.com/muchangqing/MUCycleScrollView.git'
+
+```
